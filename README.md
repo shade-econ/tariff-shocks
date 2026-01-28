@@ -8,8 +8,8 @@ If there are latex errors in formatting plots, try setting `usetex=False` near t
 ## Notebooks
 
 The results of the paper are obtained in two Jupyter notebooks, both of which should run in just a few seconds:
-- `baseline_results.ipynb` has all figures, tables, and numerical results in the paper that do not involve the quantitative model in section 6.
-- `quantitative_results.ipynb` has results associated with the quantitative model in section 6. This includes figures 10–15 and table 3 in section 6, and figures 19–21 in the appendix. Note that this requires the [`sequence-jacobian`](https://github.com/shade-econ/sequence-jacobian) toolkit to be installed.
+- [`baseline_results.ipynb`](https://github.com/shade-econ/tariff-shocks/blob/main/baseline_results.ipynb) has all figures, tables, and numerical results in the paper that do not involve the quantitative model in section 6.
+- [`quantitative_results.ipynb`](https://github.com/shade-econ/tariff-shocks/blob/main/quantitative_results.ipynb) has results associated with the quantitative model in section 6. This includes figures 10–15 and table 3 in section 6, and figures 19–21 in the appendix. Note that this requires the [`sequence-jacobian`](https://github.com/shade-econ/sequence-jacobian) toolkit to be installed.
 
 ## Supporting code
 
